@@ -1360,7 +1360,7 @@ textarea.span1,
 
 .controls-row [class*="span"],
 .row-fluid .controls-row [class*="span"] {
-  float: left;
+  float: center;
 }
 
 .controls-row .checkbox[class*="span"],
@@ -2098,7 +2098,7 @@ table th[class*="span"],
 
 .table td.span3,
 .table th.span3 {
-  float: none;
+  float: center;
   width: 204px;
   margin-left: 0;
 }
